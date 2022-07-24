@@ -1,16 +1,22 @@
-### Hi there 👋
 
-<!--
-**The-Anmol/The-Anmol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Anmol ! 👋
 
-Here are some ideas to get you started:
+I'm a React Frontend Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Badges
+![](https://img.shields.io/badge/Immortal-%F0%9F%98%8E-%23B7F5B2)
+
+## 🛠 Skills
+
+[![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://en.wikipedia.org/wiki/HTML)
+[![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://en.wikipedia.org/wiki/CSS)
+[![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://www.javascript.com/)
+[![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
+[![](https://img.shields.io/badge/eleventy-20232A?style=for-the-badge&logo=eleventy&logoColor=white)](https://www.11ty.dev/)
+[![](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+## Projects
+
+- [Css Grid Generator](https://the-anmol.github.io/Grid_Generator)
+- [ Eleventy based Blog Site ](https://netblog.netlify.app/)
+
+                        😉
