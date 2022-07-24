@@ -2,8 +2,6 @@
 # Hi, I'm Anmol ! 👋
 
 I'm a React Frontend Developer
-
-## Badges
 ![](https://img.shields.io/badge/Immortal-%F0%9F%98%8E-%23B7F5B2)
 
 ## 🛠 Skills
