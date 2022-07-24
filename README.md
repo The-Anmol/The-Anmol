@@ -2,9 +2,8 @@
 # Hi, I'm Anmol ! 👋
 
 I'm a React Frontend Developer
-![](https://img.shields.io/badge/Immortal-%F0%9F%98%8E-%23B7F5B2)
 
-## 🛠 Skills
+## 🛠 Skills      ![](https://img.shields.io/badge/Immortal-%F0%9F%98%8E-%23B7F5B2)
 
 [![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://en.wikipedia.org/wiki/HTML)
 [![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://en.wikipedia.org/wiki/CSS)
