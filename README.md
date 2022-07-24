@@ -21,5 +21,4 @@ I'm a React Frontend Developer
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=the-anmol&show_icons=true&theme=tokyonight&langs_count=20)
 
 
-                        😉
 ![](https://komarev.com/ghpvc/?username=the-anmol&style=flat-square&color=5BB318)
