@@ -16,5 +16,10 @@ I'm a React Frontend Developer
 - [Css Grid Generator](https://the-anmol.github.io/Grid_Generator)
 - [ Eleventy based Blog Site ](https://netblog.netlify.app/)
 
+## Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=the-anmol&show_icons=true&theme=tokyonight&langs_count=20)
+
+
                         😉
 ![](https://komarev.com/ghpvc/?username=the-anmol&style=flat-square&color=5BB318)
