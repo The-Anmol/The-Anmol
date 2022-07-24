@@ -17,3 +17,4 @@ I'm a React Frontend Developer
 - [ Eleventy based Blog Site ](https://netblog.netlify.app/)
 
                         😉
+![](https://komarev.com/ghpvc/?username=the-anmol&style=flat-square&color=5BB318)
