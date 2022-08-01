@@ -1,7 +1,7 @@
 
 # Hi, I'm Anmol ! 👋![](https://img.shields.io/badge/Immortal-%F0%9F%98%8E-%23B7F5B2)
 
-I'm a React Frontend Developer
+<p  align="center" > I'm a React Frontend Developer </p>
 
 # 🛠 Skills      
 
@@ -26,8 +26,7 @@ I'm a React Frontend Developer
 
 # Most Used Languages
 
-<div align="center">
-      ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=the-anmol&show_icons=true&theme=tokyonight&langs_count=20)
-</div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=the-anmol&show_icons=true&theme=tokyonight&langs_count=20)
+
 
 ![](https://komarev.com/ghpvc/?username=the-anmol&style=flat-square&color=5BB318)
