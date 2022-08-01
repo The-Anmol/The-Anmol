@@ -11,6 +11,11 @@ I'm a React Frontend Developer
 [![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
 [![](https://img.shields.io/badge/eleventy-20232A?style=for-the-badge&logo=eleventy&logoColor=white)](https://www.11ty.dev/)
 [![](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+[![](https://img.shields.io/badge/Github-333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/the-anmol)
+[![](https://img.shields.io/badge/codepen-333?style=for-the-badge&logo=codepen&logoColor=fff)](https://codepen.io/the-anmol)
+[![](https://img.shields.io/badge/Medium-000?style=for-the-badge&logo=medium&logoColor=fff)]([![](https://img.shields.io/badge/codepen-333?style=for-the-badge&logo=codepen&logoColor=fff)](https://codepen.io/the-anmol))
+
+
 ## Projects
 
 - [Css Grid Generator](https://the-anmol.github.io/Grid_Generator)
