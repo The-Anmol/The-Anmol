@@ -2,6 +2,10 @@
 # Hi, I'm Anmol ! 👋![](https://img.shields.io/badge/Immortal-%F0%9F%98%8E-%23B7F5B2)
 ## and I am Frontend enthusiast 👨‍💻 A passionate Full Stack Web Developer 🚀 having interest in Frontend technologies and experience of building Web applications with JavaScript / Reactjs ⚛️ / Nodejs and some other cool libraries and frameworks and Firebase as Backend Service.
 
+# About Me 🧑
+
+## I am a Computer 💻 Science who just started B.Tech from the Shaheed Bhagat Singh State Technical Campus 🏢 Ferozepur, Punjab in Computer Science Major. I am a highly skilled professional developer who loves ❤️ to take on the challenges and then solve them. In my free time i learn web development 🚀 and explore programming possibilities. I am use Frontend technologies like NodeJS / Javascript, React.
+
 # 🛠 Skills      
 
 [![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://the-anmol.web.app/)
