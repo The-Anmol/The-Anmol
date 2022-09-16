@@ -29,13 +29,13 @@
  
 - [Portfolio](https://the-anmol.web.app/)
 
-# Projects
+# Projects  👨‍💻
 
 1. [Css Grid Generator](https://the-anmol.github.io/Grid_Generator)
 2. [ Eleventy based Blog Site ](https://netblog.netlify.app/)
 
 
-# Accounts
+# Contact  📱
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anmol-5793a6250/)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/iCreateBugs/)
 
