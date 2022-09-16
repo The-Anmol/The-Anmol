@@ -42,7 +42,7 @@
 
 # Projects  👨‍💻
 
-1. [Css Grid Generator](https://the-anmol.github.io/Grid_Generator)
+1. [Ibex](https://ibex-zoom-classes.web.app) (Under Development)
 2. [ Eleventy based Blog Site ](https://netblog.netlify.app/)
 
 
