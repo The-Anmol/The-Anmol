@@ -1,6 +1,6 @@
 
 # Hi, I'm Anmol ! 👋![](https://img.shields.io/badge/Immortal-%F0%9F%98%8E-%23B7F5B2)
-## and I am Frontend enthusiast 👨‍💻 A passionate Full Stack Web Developer 🚀 having interest in Frontend technologies and experience of building Web applications with JavaScript / Reactjs ⚛️ / Nodejs and some other cool libraries and frameworks and Firebase as Backend Service.
+## and I am Frontend enthusiast 👨‍💻 A passionate Full Stack Web Developer 🚀 having interest in Frontend technologies and experience of building Web applications with JavaScript / Reactjs ⚛️ / Nodejs and Firebase as Backend Service and some other cool libraries and frameworks.
 
 # About Me 🧑
 
