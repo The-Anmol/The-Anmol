@@ -24,7 +24,7 @@
 
 # Portfolio
  
-- [Protfolio](https://the-anmol.web.app/)
+- [Portfolio](https://the-anmol.web.app/)
 
 # Projects
 
