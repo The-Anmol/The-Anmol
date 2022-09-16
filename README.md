@@ -5,25 +5,40 @@
 
 # 🛠 Skills      
 
-[![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://en.wikipedia.org/wiki/HTML)
-[![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://en.wikipedia.org/wiki/CSS)
-[![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://www.javascript.com/)
-[![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
-[![](https://img.shields.io/badge/eleventy-20232A?style=for-the-badge&logo=eleventy&logoColor=white)](https://www.11ty.dev/)
-[![](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+[![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://the-anmol.web.app/)
+[![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://the-anmol.web.app/)
+[![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://the-anmol.web.app/)
+[![](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](https://the-anmol.web.app/)
+[![](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)](https://the-anmol.web.app/)
+[![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://the-anmol.web.app/)
+[![](https://img.shields.io/badge/Firebase-20232A?style=for-the-badge&logo=firebase&logoColor=FFCA28)](https://the-anmol.web.app/)
+[![](https://img.shields.io/badge/Git-20232A?style=for-the-badge&logo=git&logoColor=DE4C36)](https://the-anmol.web.app/)
+[![](https://img.shields.io/badge/Photoshop-001E36?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF)](https://the-anmol.web.app/)
+[![](https://img.shields.io/badge/Premiere-00005B?style=for-the-badge&logo=adobepremierepro&logoColor=9999FF)](https://the-anmol.web.app/)
+[![](https://img.shields.io/badge/Lightroom-001E36?style=for-the-badge&logo=adobelightroom&logoColor=31A8FF)](https://the-anmol.web.app/)
+[![](https://img.shields.io/badge/Razorpay-072654?style=for-the-badge&logo=razorpay&logoColor=3395FF)](https://the-anmol.web.app/)
+[![](https://img.shields.io/badge/Puppeteer-000?style=for-the-badge&logo=puppeteer&logoColor=fff)](https://the-anmol.web.app/)
+[![](https://img.shields.io/badge/eleventy-20232A?style=for-the-badge&logo=eleventy&logoColor=white)](https://the-anmol.web.app/)
+[![](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://the-anmol.web.app/)
 
+
+# Portfolio
+ 
+- [Protfolio](https://the-anmol.web.app/)
 
 # Projects
 
-- [Css Grid Generator](https://the-anmol.github.io/Grid_Generator)
-- [ Eleventy based Blog Site ](https://netblog.netlify.app/)
+1. [Css Grid Generator](https://the-anmol.github.io/Grid_Generator)
+2. [ Eleventy based Blog Site ](https://netblog.netlify.app/)
 
 
 # Accounts
-[![](https://img.shields.io/badge/Github-333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/the-anmol)
-[![](https://img.shields.io/badge/codepen-333?style=for-the-badge&logo=codepen&logoColor=fff)](https://codepen.io/the-anmol)
-[![](https://img.shields.io/badge/Medium-000?style=for-the-badge&logo=medium&logoColor=fff)](https://medium.com/@the-anmol)
-[![](https://img.shields.io/badge/Portfolio-333?style=for-the-badge&logoColor=fff)](https://the-anmol.web.app)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anmol-5793a6250/)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/iCreateBugs/)
+
+[![Github](https://img.shields.io/badge/Github-333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/the-anmol)
+[![Codepen](https://img.shields.io/badge/codepen-333?style=for-the-badge&logo=codepen&logoColor=fff)](https://codepen.io/the-anmol)
+[![Medium](https://img.shields.io/badge/Medium-000?style=for-the-badge&logo=medium&logoColor=fff)](https://medium.com/@the-anmol)
 
 # Most Used Languages
 
