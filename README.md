@@ -12,18 +12,28 @@
 [![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://the-anmol.web.app/)
 [![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://the-anmol.web.app/)
 [![](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](https://the-anmol.web.app/)
+[![](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://the-anmol.web.app/)
+
+## Frame Works
 [![](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)](https://the-anmol.web.app/)
 [![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://the-anmol.web.app/)
+[![](https://img.shields.io/badge/eleventy-20232A?style=for-the-badge&logo=eleventy&logoColor=white)](https://the-anmol.web.app/)
+
 [![](https://img.shields.io/badge/Firebase-20232A?style=for-the-badge&logo=firebase&logoColor=FFCA28)](https://the-anmol.web.app/)
+
+## Version Control System
 [![](https://img.shields.io/badge/Git-20232A?style=for-the-badge&logo=git&logoColor=DE4C36)](https://the-anmol.web.app/)
+
+## Payment Gateway
+[![](https://img.shields.io/badge/Razorpay-072654?style=for-the-badge&logo=razorpay&logoColor=3395FF)](https://the-anmol.web.app/)
+
+## Web Automation
+[![](https://img.shields.io/badge/Puppeteer-000?style=for-the-badge&logo=puppeteer&logoColor=fff)](https://the-anmol.web.app/)
+
+## Designing
 [![](https://img.shields.io/badge/Photoshop-001E36?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF)](https://the-anmol.web.app/)
 [![](https://img.shields.io/badge/Premiere-00005B?style=for-the-badge&logo=adobepremierepro&logoColor=9999FF)](https://the-anmol.web.app/)
 [![](https://img.shields.io/badge/Lightroom-001E36?style=for-the-badge&logo=adobelightroom&logoColor=31A8FF)](https://the-anmol.web.app/)
-[![](https://img.shields.io/badge/Razorpay-072654?style=for-the-badge&logo=razorpay&logoColor=3395FF)](https://the-anmol.web.app/)
-[![](https://img.shields.io/badge/Puppeteer-000?style=for-the-badge&logo=puppeteer&logoColor=fff)](https://the-anmol.web.app/)
-[![](https://img.shields.io/badge/eleventy-20232A?style=for-the-badge&logo=eleventy&logoColor=white)](https://the-anmol.web.app/)
-[![](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://the-anmol.web.app/)
-
 
 # Portfolio 📜
  
