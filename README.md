@@ -23,6 +23,7 @@
 [![](https://img.shields.io/badge/Github-333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/the-anmol)
 [![](https://img.shields.io/badge/codepen-333?style=for-the-badge&logo=codepen&logoColor=fff)](https://codepen.io/the-anmol)
 [![](https://img.shields.io/badge/Medium-000?style=for-the-badge&logo=medium&logoColor=fff)](https://medium.com/@the-anmol)
+[![](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logoColor=fff)](https://the-anmol.web.app)
 
 # Most Used Languages
 
