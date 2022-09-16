@@ -6,7 +6,7 @@
 
 ## I am a Computer 💻 Science who just started B.Tech from the Shaheed Bhagat Singh State Technical Campus 🏢 Ferozepur, Punjab in Computer Science Major. I am a highly skilled professional developer who loves ❤️ to take on the challenges and then solve them. In my free time i learn web development 🚀 and explore programming possibilities. I am use Frontend technologies like NodeJS / Javascript, React.
 
-# 🛠 Skills      
+# Skills 🛠
 
 [![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://the-anmol.web.app/)
 [![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://the-anmol.web.app/)
@@ -25,7 +25,7 @@
 [![](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://the-anmol.web.app/)
 
 
-# Portfolio
+# Portfolio 📜
  
 - [Portfolio](https://the-anmol.web.app/)
 
@@ -43,7 +43,7 @@
 [![Codepen](https://img.shields.io/badge/codepen-333?style=for-the-badge&logo=codepen&logoColor=fff)](https://codepen.io/the-anmol)
 [![Medium](https://img.shields.io/badge/Medium-000?style=for-the-badge&logo=medium&logoColor=fff)](https://medium.com/@the-anmol)
 
-# Most Used Languages
+# Most Used Languages 😵
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=the-anmol&show_icons=true&theme=tokyonight&langs_count=20)
 
